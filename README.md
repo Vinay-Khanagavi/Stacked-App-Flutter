@@ -1,6 +1,10 @@
 # Stacked-App
 The Flutter Framework for Production
 
+Get Started ->
+dart pub global activate stacked_cli
+stacked create app my_first_app
+flutter run
 
 
 # hosted in firebase
